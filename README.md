@@ -34,3 +34,4 @@ pip install pillow/basemap/matplotlib/numpy/pyproj
 [参考2](http://basemaptutorial.readthedocs.io/en/latest/search.html?q=rgb2hex&check_keywords=yes&area=default)
 [参考3](https://www.zhihu.com/question/49669755)
 [参考4](http://blog.csdn.net/zm714981790/article/details/51224650)
+[参考5](http://blog.csdn.net/ouening/article/details/55227364)
